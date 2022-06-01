@@ -2,7 +2,7 @@
 
 
 
-soc 或者 siem 平台用的规则引擎  使用antlr 解析自定义的脚本语言
+soc 或者 siem 平台用的规则引擎，使用antlr解析自定义的脚本语言。
 部分规则借鉴gengine。
 
 
@@ -19,3 +19,5 @@ begin
 count(Rs.Small>11) >10 within 100 second
 end
 `
+
+
